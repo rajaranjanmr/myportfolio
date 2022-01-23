@@ -1,2 +1,2 @@
 # myportfolio
-GUI based portfolio
+GUI based portfolio updated.
